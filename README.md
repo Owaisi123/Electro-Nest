@@ -1,6 +1,6 @@
 # ⚡ ElectroNest – Your Ultimate Electronics Destination
 
-Welcome to **ElectroNest**, a stylish and modern eCommerce website for all your electronic needs — from mobiles and laptops to premium accessories. Built with ❤️ using **React**, **Bootstrap**, and **React Icons**.
+Welcome to **ElectroNest**, a stylish and modern eCommerce website for all your electronic needs — from mobiles and laptops to premium accessories. Built with ❤️ using **React**, **Bootstrap**, **Antd** , **MUI** and **React Icons**.
 
 ---![web-2k2](https://github.com/user-attachments/assets/b667e11f-427f-4bc2-86f0-858e7f2c5635)
 
