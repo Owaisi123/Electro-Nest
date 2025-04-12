@@ -31,7 +31,7 @@ Welcome to **ElectroNest**, a stylish and modern eCommerce website for all your 
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/my-app.git
+git clone https://github.com/Owaisi123/Electro-Nest.git
 cd my-app
 npm install
 npm run dev
